@@ -14,6 +14,6 @@ Bu projeye başlamak için bilmeniz gerekenler:
   
   Değişkenleri, çağıracağımız komutları düzenlerken kullanırız. Bu değişkenler sayesinde kaynak dosyalarının isimleri gibi uzun değerler üzerinde daha hızlı işlem yapılabilir. Ayrıca kullanacağınız derleyiciyi türü gibi, kodun farklı komutlarında çağırdığınız değerleri tek bir noktadan değiştirmenizi sağlar. Örneğin, bizim durumumuzda `CC` değişkenini (yani derleyicimizi) kolaylıkla `clang` veya `gcc` olarak ayarlayabiliriz.
   
-  Komutlar
+  ## Komutlar
   
   Makefile da `$(NAME)` `all` `clean` `fclean` ve `re` kurallarını içermelidir.
